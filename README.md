@@ -5,3 +5,6 @@
 
 Para ejecutar el programa debes: ...
  `  `  ` pm install react `  `  ` 
+
+
+sistema de registro 2 
